@@ -1,2 +1,2 @@
-# gifSearch
-Gif Search App
+# IMC_calculator
+IMC calculator App
